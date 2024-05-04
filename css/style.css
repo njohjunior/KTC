@@ -1,0 +1,34 @@
+body{
+    font-family: roboto;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: roboto;
+}
+
+a:hover{
+    color: rgb(62, 156, 255);
+    transition: 0.4s ease-out;
+    border-bottom: 2px solid rgb(62, 156, 255);
+    padding-bottom: 5px;
+}
+
+p{
+    text-align: justify;
+}
+
+.logo:hover{
+    opacity: 80%;
+    border: none;
+    transition: 0.4s ease-out;
+}
+
+h1{
+    font-weight: bold;
+}
